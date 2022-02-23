@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋<img align="center" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" height="100" /></a>
 
 <!--
 **krdurrett/krdurrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
