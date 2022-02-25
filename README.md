@@ -1,5 +1,6 @@
-<img align="center" alt="nameGif" src="https://media.giphy.com/media/YM4oNprzrXdkeToFpu/giphy.gif" />
-
+<p align="center">
+  <img align="center" alt="nameGif" src="https://media.giphy.com/media/YM4oNprzrXdkeToFpu/giphy.gif" />
+</p>
 ***
 
 <p align="center">
