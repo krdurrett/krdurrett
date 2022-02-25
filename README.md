@@ -1,5 +1,6 @@
-
-<img align="center" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" height="100" />
+<p align="center">
+<img align="center" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" height="100" /><img align="center" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" height="100" />
+</p>
 
 ***
 
