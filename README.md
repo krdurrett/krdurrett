@@ -35,3 +35,23 @@
 ***
 
 <h3 align="center">Technologies</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kayla-durrett/">
+    <img
+      alt="Linkedin"
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  <a href="https://www.codewars.com/users/krdurrett">
+    <img
+      alt="CodeWars"
+      src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"
+    />
+  </a>
+  <a href="mailto:kayla.durrett@gmail.com">
+    <img
+      alt="email"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+</p>
