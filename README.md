@@ -25,6 +25,9 @@
 
 ***
 
+- 💻 I am currently a Frontend Software Engineering student at [Turing School of Software and Design](https://turing.edu/)
+
+***
 <!--
 **krdurrett/krdurrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
