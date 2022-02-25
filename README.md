@@ -112,4 +112,4 @@
 
 ***
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krdurrett)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krdurrett&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
