@@ -113,7 +113,7 @@
 ***
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krdurrett&theme=synthwave" />
+  <img align="center" height="100px" src="https://github-readme-stats.vercel.app/api?username=krdurrett&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krdurrett&layout=compact&theme=synthwave" />
