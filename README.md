@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img align="center" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" height="100" />
   <h3>Hi! I'm Kayla and I love coding!</h3>
   <img align="center" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" height="100" />
