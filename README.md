@@ -54,4 +54,46 @@
       src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
     />
   </a>
+  <a href="https://expressjs.com/">
+    <img
+      alt="Express.js"
+      src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
+    />
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img
+      alt="Node.js"
+      src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+    />
+  </a>
+  <a href="https://reactjs.org/">
+    <img
+      alt="React"
+      src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+    />
+  </a>
+  <a href="https://sass-lang.com/">
+    <img
+      alt="Sass"
+      src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
+    />
+  </a>
+  <a href="https://www.cypress.io/">
+    <img
+      alt="Cypress"
+      src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"
+    />
+  </a>
+  <a href="https://mochajs.org/">
+    <img
+      alt="Mocha"
+      src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white"
+    />
+  </a>
+  <a href="https://reactrouter.com/">
+    <img
+      alt="ReactRouter"
+      src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
+    />
+  </a>
 </p>
