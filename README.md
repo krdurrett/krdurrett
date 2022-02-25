@@ -25,7 +25,8 @@
 
 ***
 
-- 💻 I am currently a Frontend Software Engineering student at [Turing School of Software and Design](https://turing.edu/)
+- 💻  I am currently a Frontend Software Engineering student at [Turing School of Software and Design](https://turing.edu/)
+- 🌱  I am currently learning backend technologies using [Express.js](https://expressjs.com/) along with [Knex.js](https://knexjs.org/) to design a [PostreSQL](https://www.postgresql.org/) database.
 
 ***
 <!--
