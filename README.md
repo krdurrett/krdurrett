@@ -108,6 +108,8 @@
       src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
     />
   </a>
-  
-  
 </p>
+
+***
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krdurrett)](https://github.com/anuraghazra/github-readme-stats)
