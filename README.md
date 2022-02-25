@@ -1,4 +1,4 @@
-[nameGif](https://media.giphy.com/media/YM4oNprzrXdkeToFpu/giphy.gif)
+<img align="center" alt="nameGif" src="https://media.giphy.com/media/YM4oNprzrXdkeToFpu/giphy.gif" />
 
 ***
 
