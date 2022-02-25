@@ -1,5 +1,6 @@
 
 <img align="center" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" height="100" />
+***
 <p>
   <a href="https://www.linkedin.com/in/kayla-durrett/">
     <img
@@ -20,6 +21,7 @@
     />
   </a>
 </p>
+***
 
 <!--
 **krdurrett/krdurrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
