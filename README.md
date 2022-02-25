@@ -1,4 +1,4 @@
-<h1>Hi! I'm Kayla and I love coding!</h1>
+<h1 align="center">Hi! I'm Kayla and I love coding!</h1>
 
 ***
 
