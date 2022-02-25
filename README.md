@@ -1,6 +1,13 @@
 
 <img align="center" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" height="100" />
 
+<a href="https://www.linkedin.com/in/kayla-durrett/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **krdurrett/krdurrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
