@@ -13,6 +13,12 @@
       src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"
     />
   </a>
+  <a href="mailto:kayla.durrett@gmail.com">
+    <img
+      alt="email"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
 </p>
 
 <!--
