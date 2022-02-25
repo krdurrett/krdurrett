@@ -1,4 +1,4 @@
-<img src="/BannerTransparent.png" alt="banner" align="center" />
+
 <img align="center" src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/200.gif" height="100" />
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
