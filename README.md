@@ -21,6 +21,12 @@
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
+  <a href="https://replit.com/@kdurrett">
+    <img
+      alt="replit"
+      src="https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white"
+    />
+  </a>
 </p>
 
 ***
@@ -96,10 +102,12 @@
       src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
     />
   </a>
-   <a href="https://www.postgresql.org/">
+  <a href="https://www.postgresql.org/">
     <img
       alt="postgres"
       src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
     />
   </a>
+  
+  
 </p>
