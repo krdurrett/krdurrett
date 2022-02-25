@@ -36,22 +36,22 @@
 
 <h3 align="center">Technologies</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/kayla-durrett/">
+  <a href="https://css-tricks.com/">
     <img
-      alt="Linkedin"
-      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="CSS3"
+      src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
     />
   </a>
-  <a href="https://www.codewars.com/users/krdurrett">
+  <a href="https://html.com/html5/">
     <img
-      alt="CodeWars"
-      src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"
+      alt="HTML5"
+      src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
     />
   </a>
-  <a href="mailto:kayla.durrett@gmail.com">
+  <a href="https://www.javascript.com/">
     <img
-      alt="email"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="JavaScript"
+      src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
     />
   </a>
 </p>
