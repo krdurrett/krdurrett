@@ -96,4 +96,10 @@
       src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"
     />
   </a>
+   <a href="https://www.postgresql.org/">
+    <img
+      alt="postgres"
+      src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+    />
+  </a>
 </p>
