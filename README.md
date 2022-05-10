@@ -33,10 +33,10 @@
 
 ***
 
-- 💻  I am currently a Frontend Software Engineering student at [Turing School of Software and Design](https://turing.edu/)
-- 🌱  I am currently learning backend technologies using [Express.js](https://expressjs.com/) along with [Knex.js](https://knexjs.org/) to design a [PostreSQL](https://www.postgresql.org/) database
-- 👯  Most recent project: [Rancid Tomatillos](https://github.com/krdurrett/Rancid-Tomatillos)
-- 🤔  I am looking forward to learning [TypeScript](https://www.typescriptlang.org/)
+- 👩‍💻  I work for [Galileo Health](https://galileohealth.com/) as an Associate Software Engineer
+- 💻  I recently graduated from [Turing School of Software and Design](https://turing.edu/)
+- 🌱  I am currently learning [Python](https://www.python.org/) and [Flask](https://flask.palletsprojects.com/en/2.1.x/)
+- 👯  Most recent project: [OK Cryptid](https://github.com/OK-Cryptid/ok-cryptid-fe)
 - ❤️  My favorite project [Rock Paper Scissors Lizard Spock](https://github.com/krdurrett/Rock-Paper-Scissors)
 - 🧗‍♀️  When i'm not coding I love to be outside, enjoying all Colorado has to offer!
 
@@ -108,6 +108,24 @@
     <img
       alt="postgres"
       src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img
+      alt="typescript"
+      src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+    />
+  </a>
+  <a href="https://www.python.org/">
+    <img
+      alt="python"
+      src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+    />
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/">
+    <img
+      alt="flask"
+      src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"
     />
   </a>
 </p>
